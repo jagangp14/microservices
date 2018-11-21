@@ -1,0 +1,35 @@
+#loginForm
+{
+	width:20%;
+	margin-left: 45%;
+		
+}
+
+fieldset
+{
+	width:80%;
+	font-size: large;
+	color: blue;
+}
+
+legend
+{
+	text-align: center;
+}
+
+input
+{
+	width:70%;
+	margin-left:10%;
+	margin-bottom: 3%;
+}
+
+
+input[type=submit]
+{
+	width:30%;
+	margin-left: 30%;
+	color: white;
+	background-color: blue;
+	font-weight: blue;
+}
